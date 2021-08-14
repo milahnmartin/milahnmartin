@@ -44,7 +44,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 ```text
 Typescript  
-Python   
+Python 
+Flask
 JavaScript
 MYSQL | Sqlite3
 ```
@@ -52,7 +53,7 @@ MYSQL | Sqlite3
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/milahnmartin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
