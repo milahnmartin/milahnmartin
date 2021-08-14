@@ -54,6 +54,19 @@ MYSQL | Sqlite3
 ```
 <!--END_SECTION:waka-->
 
+
+📊 **Wanting to Learn:**
+<!--START_SECTION:waka-->
+```text
+C
+Django
+Vue
+DevOps
+Pipelins ( CI / CD )
+
+```
+<!--END_SECTION:waka-->
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/milahnmartin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
