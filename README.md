@@ -18,6 +18,8 @@
 
 hi, i'm [Milahn Martin](https://abhishknads.me/), a passionate Software Engineer, currently 20 years of age studying BSC Software Engineering. Spend most of time learning new tools and experiencing new frameworks and libraries. Love building new things and working alongside amazing developers.
 
+I love building UML Diagarams and diving into Process Models, algorithms and data structures I really love, and solving problems with hard algorithms and the best possible time complexity.
+
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
