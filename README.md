@@ -51,6 +51,7 @@ Python
 Flask
 JavaScript
 MYSQL | Sqlite3
+Webpack
 ```
 <!--END_SECTION:waka-->
 
