@@ -16,9 +16,9 @@
 
 <br />
 
-hi, i'm [Milahn Martin](https://twitter.com/ultrafyy/), a passionate Software Engineer, currently 20 years of age studying BSC Software Engineering. Spend most of time learning new tools and experiencing new frameworks and libraries. Love building new things and working alongside amazing developers. Currently Majoring in Python but I love to switch it up and work with C languages such as C#, C++. I also love to learn new languages and experience new Algorithms.
+hi, I'm [Milahn Martin](https://twitter.com/ultrafyy/), a passionate Software Engineer, currently 20 years of age studying BSC Software Engineering. Spend most of time learning new tools and experiencing new frameworks and libraries. Love building new things and working alongside amazing developers. Currently Majoring in Python but I love to switch it up and work with C languages such as C#, C++. I also love to learn new languages and experience new Algorithms.
 
-I also have experience in Process Models, Software Design, Architecture and basic Networking knowledge Like Setting up DHCP servers, Firewalls, TCP / UDP , Hashing Algorithms, OSI Models just to name a few. I am a selftaught Webdeveloper mostly using Typescript.
+I also have experience in Process Models, Software Design, Architecture and basic Networking knowledge Like Setting up DHCP servers, Firewalls, TCP / UDP , Hashing Algorithms, OSI Models just to name a few. I am a self-taught Webdeveloper mostly using Typescript.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
