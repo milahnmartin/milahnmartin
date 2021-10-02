@@ -16,9 +16,9 @@
 
 <br />
 
-hi, i'm [Milahn Martin](https://twitter.com/ultrafyy/), a passionate Software Engineer, currently 20 years of age studying BSC Software Engineering. Spend most of time learning new tools and experiencing new frameworks and libraries. Love building new things and working alongside amazing developers.
+hi, i'm [Milahn Martin](https://twitter.com/ultrafyy/), a passionate Software Engineer, currently 20 years of age studying BSC Software Engineering. Spend most of time learning new tools and experiencing new frameworks and libraries. Love building new things and working alongside amazing developers. Currently Majoring in Python but I love to switch it up and work with C languages such as C#, C++. I also love to learn new languages and experience new Algorithms.
 
-I love creating process models diving into DevOps front and backend but prever backend, learning new Languages is my weakness. I love working with developers who are as passionate as I am. I love bulding projects and learning new things.
+I also have experience in Process Models, Software Design, Architecture and basic Networking knowledge Like Setting up DHCP servers, Firewalls, TCP / UDP , Hashing Algorithms, OSI Models just to name a few. I am a selftaught Webdeveloper mostly using Typescript.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -60,6 +60,7 @@ Webpack
 <!--START_SECTION:waka-->
 ```text
 C
+Golang
 Django
 Vue
 DevOps
@@ -68,17 +69,23 @@ Pipelins ( CI / CD )
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you want to collab message or email me on any of my social media:
+<ul>
+  <li>Discord - ultrafy#5532</li>
+  <li>Email - milahnmartin.develop@gmail.com</li>
+  <li>Twitter - @ultrafyy</li>
+  </ul>
+🥺👉👈
 
-<a href="https://www.buymeacoffee.com/milahnmartin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/milahnmartin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-🚧 **my todoist stats:**
+<!-- 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,936 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 663 tasks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<!-- TODO-IST:END --> -->
 
 
 📈 my github stats
