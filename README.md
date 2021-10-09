@@ -5,7 +5,7 @@
 <a href="https://twitter.com/ultrafyy">
   <img align="left" alt="Milahn Martin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/milahnmartin/">
+<a href="https://www.linkedin.com/in/milahn-martin-376416203/">
   <img align="left" alt="Milahn Martin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/">
@@ -46,12 +46,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **Most Time Spent On:**
 <!--START_SECTION:waka-->
 ```text
-Typescript  
+Typescript / JavaScript
 Python 
 Flask
-JavaScript
+Express JS
 MYSQL | Sqlite3
 Webpack
+Docker
+Github
 ```
 <!--END_SECTION:waka-->
 
@@ -62,9 +64,7 @@ Webpack
 C
 Golang
 Django
-Vue
-DevOps
-Pipelins ( CI / CD )
+Kubernetes
 
 ```
 <!--END_SECTION:waka-->
