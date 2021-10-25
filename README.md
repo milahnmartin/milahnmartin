@@ -50,7 +50,7 @@ Typescript / JavaScript
 Python 
 Flask
 Express JS
-MYSQL | Sqlite3 | Firebase | MongoDB
+MYSQL | Sqlite3 | Firebase | MongoDB | Oracle
 Webpack
 Docker
 Github
