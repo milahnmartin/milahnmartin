@@ -59,7 +59,9 @@ Github
 <!--END_SECTION:waka-->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milahnmartin&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
+
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=milahnmartin/Your_GitHub_Repository_Name)
 
 📊 **Wanting to Learn:**
 <!--START_SECTION:waka-->
