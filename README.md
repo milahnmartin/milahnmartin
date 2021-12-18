@@ -58,7 +58,7 @@ Github
 ```
 <!--END_SECTION:waka-->
 
-<h3>Repo Language Usage</h3>
+💻 **Repo Most Used Github Languages**
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milahnmartin&theme=blue-green)
 
