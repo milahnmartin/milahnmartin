@@ -58,10 +58,9 @@ Github
 ```
 <!--END_SECTION:waka-->
 
+<h1>Most Github Most Used Languages</h1>
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milahnmartin&theme=blue-green)
-
-
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 
 📊 **Wanting to Learn:**
 <!--START_SECTION:waka-->
