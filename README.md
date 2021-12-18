@@ -58,7 +58,7 @@ Github
 ```
 <!--END_SECTION:waka-->
 
-<h1>Most Github Most Used Languages</h1>
+<h3>Repo Language Usage</h3>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milahnmartin&theme=blue-green)
 
@@ -80,9 +80,6 @@ if you want to collab message or email me on any of my social media:
   <li>Twitter - @ultrafyy</li>
   </ul>
 🥺👉👈
-
-<!-- <a href="https://www.buymeacoffee.com/milahnmartin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-
 
 
 
