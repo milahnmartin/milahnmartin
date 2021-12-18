@@ -14,6 +14,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=milahnmartin.milahnmartin)
 
+
 <br />
 
 hi, I'm [Milahn Martin](https://twitter.com/ultrafyy/), a passionate Software Engineer, currently 20 years of age studying BSC Software Engineering. Spend most of time learning new tools and experiencing new frameworks and libraries. Love building new things and working alongside amazing developers. Currently Majoring in Python but I love to switch it up and work with C languages such as C#, C++. I also love to learn new languages and experience new Algorithms.
@@ -58,6 +59,7 @@ Github
 <!--END_SECTION:waka-->
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milahnmartin&theme=blue-green)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Your_GitHub_Username/Your_GitHub_Repository_Name)
 
 📊 **Wanting to Learn:**
 <!--START_SECTION:waka-->
