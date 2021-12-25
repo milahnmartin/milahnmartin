@@ -79,6 +79,7 @@ React
 <!--START_SECTION:waka-->
 ```text
 C
+Tailwind CSS
 Golang
 Django
 Kubernetes
