@@ -1,105 +1,175 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/qRUfNfJuhd">
-  <img align="left" alt="Ultrafy's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/ultrafyy">
-  <img align="left" alt="Milahn Martin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/milahn-martin-376416203/">
-  <img align="left" alt="Milahn Martin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/">
-  <img align="left" alt="Milahn's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+
+<h1 align="left" id="ultrafy-title">:wave: Hello there! I'm Milahn Martinr</h1>
+<h3 align="left">I am a 3rd Year Software Engineering Student </h3>
+
+
+<a href="#ultrafy-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=milahnmartin&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Suhail Kakar" align="right" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=milahnmartin.milahnmartin)
+<br>
+
+<h2 align="left" id="milahnmartin-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
 
 
-<br />
-
-hi, I'm [Milahn Martin](https://twitter.com/ultrafyy/), a passionate Software Engineer, currently 20 years of age studying BSC Software Engineering. Spend most of time learning new tools and experiencing new frameworks and libraries. Love building new things and working alongside amazing developers. Currently Majoring in Python but I love to switch it up and work with C languages such as C#, C++. I also love to learn new languages and experience new Algorithms.
-
-I also have experience in Process Models, Software Design, Architecture and basic Networking knowledge Like Setting up DHCP servers, Firewalls, TCP / UDP , Hashing Algorithms, OSI Models just to name a few. I am a self-taught Webdeveloper mostly using Typescript.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
+      </a>
+      <br>Node JS
+    </td>
+     <td align="center" width="96"> 
+      <a href="#mmartin-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+  </tr>
   
-- 💼 any freelance work? do reach, [email](milahnmartin.develop@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#mmartin-tech" >
+        <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C Lang
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech" >
+        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center"  width="96">
+      <a href="#mmartin-tech">
+        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
+      </a>
+      <br>Gatsby
+    </td>
+    <td align="center"  width="96">
+      <a href="#mmartin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
+      </a>
+      <br>Electron
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+      </a>
+      <br>TailWind
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
+      </a>
+      <br>Tensorflow
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
+      </a>
+      <br>Material ui
+    </td>
+    <td align="center" width="96">
+      <a href="#mmartin-tech">
+        <img src="https://iconape.com/wp-content/png_logo_vector/cib-flask.png" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
+             <td align="center" width="96"> 
+      <a href="#mmartin-tech" >
+        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>G Cloud
+    </td>
+  </tr>
+    
+</table>
 
-🔨 **Languages:**
-```
-Typescript
-Javascript
-Python
-C#
-C++
-Java
-```
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
-🎮 **Version Controls**
-```
-Git
-Github
-Gitlab
-Bitbucket
-Docker Hub
-```
-
-📊 **Most Time Spent On:**
-<!--START_SECTION:waka-->
-```text
-Git
-Python
-Typescript
-React
-```
-<!--END_SECTION:waka-->
-
-💻 **Repo Most Used Github Languages**
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=milahnmartin&theme=blue-green)
-
-📊 **Wanting to Learn:**
-<!--START_SECTION:waka-->
-```text
-C
-Tailwind CSS
-Golang
-Django
-Kubernetes
-
-```
-<!--END_SECTION:waka-->
-
-if you want to collab message or email me on any of my social media:
-<ul>
-  <li>Discord - ultrafy#5532</li>
-  <li>Email - milahnmartin.develop@gmail.com</li>
-  <li>Twitter - @ultrafyy</li>
-  </ul>
-🥺👉👈
+[linkedin]: https://www.linkedin.com/in/milahnmartin "LinkedIn"
+[twitter]: https://twitter.com/ultrafyy "Twitter"
 
 
 
-📈 my github stats
+[![Suhail's github activity graph](https://activity-graph.herokuapp.com/graph?username=milahnmartin&theme=react-dark)](https://github.com/milahnmartin)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=milahnmartin&show_icons=true&theme=gotham" alt="milahnmartin" />
 
 
 
