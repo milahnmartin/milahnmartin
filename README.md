@@ -15,8 +15,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Typescript | Javascript | Java | C# | Go | C++ | HTML | CSS | PHP
-- 🌐 &nbsp; Android | React.js | Flask | Express.js | Node.js | jQuery
+- 💻 &nbsp; Python | Typescript | Javascript | Java | C# | Go | C++ | PHP
+- 🌐 &nbsp; Android | React.js | Flask | Express.js | Node.js | jQuery | HTML5 | CSS3 | TailWind CSS
 - 🛢 &nbsp; MySQL | SQlite3 | Oracle SQL | Postgress SQL | Mongo DB | Firebase | Xampp | GraphQL
 - 🔧 &nbsp; Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
 
