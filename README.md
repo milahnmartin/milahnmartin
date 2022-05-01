@@ -1,7 +1,7 @@
 
         
 <h2> Hey there! I'm Milahn. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/milahnmartin/milahnmartin/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -15,10 +15,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Typescript | Javascript | Java | C# | Go | C++ 
-- 🌐 &nbsp; Android | React | Flask | 
+- 💻 &nbsp; Python | Typescript | Javascript | Java | C# | Go | C++ | HTML | CSS | PHP
+- 🌐 &nbsp; Android | React.js | Flask | Express.js | Node.js | jQuery | 
 - 🛢 &nbsp; MySQL | SQlite3 | Oracle SQL | Postgress SQL | Mongo DB | Firebase | Xampp | GraphQL
-- 🔧 &nbsp; Android Studio | Jetbrains IDE | Visual Studio code | Git
+- 🔧 &nbsp; Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
 
 <br>
 
