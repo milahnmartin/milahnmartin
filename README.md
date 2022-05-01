@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; I’m currently learning GoLang
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering, Software Analyst, Project Management, Game Development.
+- 🎓 &nbsp; Studying Software Engineering, Software Analytics, Project Management, Game Development.
 - 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in Open Source.
 - ✍️ &nbsp; Watching Netflix and trying out latest tech stacks trends as hobbies/side hustles.
