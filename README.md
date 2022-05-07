@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning GoLang
+- 🔭 &nbsp; I’m currently learning GoLang / Next.js / Sanity CMS 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, Software Analytics, Project Management, Game Development.
 - 💼 &nbsp; Full Stack Developer.
