@@ -5,9 +5,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning GoLang / Next.js / Sanity CMS 
+- 🔭 &nbsp; I’m currently learning Kotlin | Java | TypeScript | Android Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering, Software Analytics, Project Management, Game Development.
+- 🎓 &nbsp; Studying Software Engineering, Software Analysis, Project Management, Game Development.
 - 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in Open Source.
 - ✍️ &nbsp; Watching Netflix and trying out latest tech stacks trends as hobbies/side hustles.
