@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Kotlin | Java | TypeScript | Android Development
+- 🔭 &nbsp; I’m currently learning Kotlin | Java | TypeScript | Android Development | Golang
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, Software Analysis, Project Management, Game Development.
 - 💼 &nbsp; Full Stack Developer.
