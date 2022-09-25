@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Kotlin | Java | TypeScript | Android Development | Golang
+- 🔭 &nbsp; I’m currently learning Vue and Next
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, Software Analysis, Project Management, Game Development.
 - 💼 &nbsp; Full Stack Developer.
@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Typescript | Javascript | Java | C# | Go | C++ | PHP
-- 🌐 &nbsp; Android | React.js | Flask | Express.js | Node.js | jQuery | HTML5 | CSS3 | TailWind CSS
+- 🌐 &nbsp; Android | React.js | Flask | Express.js | Node.js | jQuery | HTML5 | CSS3 | TailWind CSS | Next | Vue
 - 🛢 &nbsp; MySQL | SQlite3 | Oracle SQL | Postgress SQL | Mongo DB | Firebase | Xampp | GraphQL
 - 🔧 &nbsp; Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
 
