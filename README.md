@@ -21,7 +21,7 @@
 - 🔧 &nbsp; Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milahnmartin&theme=dark&show_icons=true)
+![Milahns's GitHub stats](https://github-readme-stats.vercel.app/api?username=milahnmartin&theme=default&show_icons=true)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
