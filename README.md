@@ -11,7 +11,7 @@
 - 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Enthusiast in Open Source.
 - ✍️ &nbsp; Watching Netflix and trying out latest tech stacks trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, you need to work hard to be succesfull. 
+- ☕ &nbsp; I believe, you need to work hard to be succesful. 
 
 <h3>🛠 Tech Stack</h3>
 
