@@ -1,11 +1,11 @@
 
         
-<h2> Hey there! I'm Milahn Martin.</h2>
+<h2> Hey there! I'm Milahn Martin, a BSC IT (Hons) Student Majoring in Software Engineering</h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Golang and Vue.js
+- 🔭 &nbsp; I’m currently learning Kotlin and Vue.js
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, Software Analysis, Project Management, Game Development.
 - 💼 &nbsp; Full Stack Developer.
