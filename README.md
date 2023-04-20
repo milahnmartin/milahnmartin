@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Kotlin and Vue.js
+- 🔭 &nbsp; I’m currently learning Flutter and Vue.js
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering, Software Analysis, Project Management, Game Development.
 - 💼 &nbsp; Full Stack Developer.
