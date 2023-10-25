@@ -1,33 +1,37 @@
+# Hi there! I'm Milahn Martin 👋
 
-        
-<h2> Hey there! I'm Milahn Martin, a BSC IT (Hons) Student Majoring in Software Engineering</h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+I'm a dedicated BSc IT (Hons) student majoring in Software Engineering, with a passion for creating software solutions and exploring new technologies. Currently, I'm on a journey to master Flutter and Golang.
 
-<h3> 👨🏻‍💻 About Me </h3>
+👨🏻‍💻 About Me
 
-- 🔭 &nbsp; I’m currently learning Flutter and Golang
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering, Software Analysis, Project Management, Game Development.
-- 💼 &nbsp; Full Stack Developer.
-- 🌱 &nbsp; Enthusiast in Open Source.
-- ✍️ &nbsp; Watching Netflix and trying out latest tech stacks trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, you need to work hard to be succesful. 
+- 🌱 Enthusiastic about Open Source
+- 🚀 Full Stack Developer
+- 📚 Studying Software Engineering, Software Analysis, Project Management, and Game Development
+- 💡 Constantly seeking to innovate and build quick hacks
+- 🎯 Committed to delivering high-quality software solutions
 
-<h3>🛠 Tech Stack</h3>
+🛠️ Tech Stack
 
-- 💻 &nbsp; Python | Typescript | Javascript | Java | C# | Go | PHP | Kotlin
-- 🌐 &nbsp; Android | React.js | Flask | Express.js | Node.js | jQuery | HTML5 | CSS3 | TailWind CSS | Next.js | Vue.js
-- 🛢 &nbsp; MySQL | SQlite3 | Oracle SQL | Postgress SQL | Mongo DB | Firebase | Xampp | GraphQL | Supabase
-- 🔧 &nbsp; Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
+Languages: Python | Typescript | JavaScript | Java | C# | Go | PHP | Kotlin
+Web Technologies: Android | React.js | Flask | Express.js | Node.js | jQuery | HTML5 | CSS3 | Tailwind CSS | Next.js | Vue.js
+Databases: MySQL | SQLite3 | Oracle SQL | PostgreSQL | MongoDB | Firebase | XAMPP | GraphQL | Supabase
+IDEs: Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
 
+📈 GitHub Stats
 
-![Milahns's GitHub stats](https://github-readme-stats.vercel.app/api?username=milahnmartin&theme=default&show_icons=true)
+![Milahn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milahnmartin&show_icons=true&theme=default)
 
-<h3> 🤝🏻 Connect with Me </h3>
+🤝 Connect with Me
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/ultrafyy" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/milahnmartin/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/milahn-martin-376416203/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:milahnmartin.develop@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+Feel free to connect with me through these platforms:
+
+- [Twitter](https://twitter.com/ultrafyy)
+- [Instagram](https://www.instagram.com/milahnmartin/)
+- [LinkedIn](https://www.linkedin.com/in/milahn-martin-376416203/)
+- Email: milahnmartin.develop@gmail.com
+
+📚 Learning Journey
+
+Currently, I'm expanding my knowledge in Spring Boot. I also have nine months of valuable experience in the telecom industry using Vue3 and Node.js. At the age of 22, I'm passionate about creating innovative solutions that make a difference in the world.
+
+Let's innovate and code for a brighter future! 🌟
