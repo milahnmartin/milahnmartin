@@ -25,7 +25,6 @@ IDEs: Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
 
 Feel free to connect with me through these platforms:
 
-- [Twitter](https://twitter.com/ultrafyy)
 - [Instagram](https://www.instagram.com/milahnmartin/)
 - [LinkedIn](https://www.linkedin.com/in/milahn-martin-376416203/)
 - Email: milahnmartin.develop@gmail.com
