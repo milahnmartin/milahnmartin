@@ -1,12 +1,12 @@
 # Hi there! I'm Milahn Martin 👋
 
-I'm a dedicated BSc IT (Hons) student majoring in Software Engineering, with a passion for creating software solutions and exploring new technologies. Currently, I'm on a journey to master Flutter and Golang.
+I'm a dedicated Software Engineer with a BSc IT (Hons) degree, majoring in Software Engineering. Passionate about creating software solutions and exploring new technologies, I'm on a journey to master Flutter and Golang.
 
 👨🏻‍💻 About Me
 
 - 🌱 Enthusiastic about Open Source
 - 🚀 Full Stack Developer
-- 📚 Studying Software Engineering, Software Analysis, Project Management, and Game Development
+- 📚 Recently graduated with Honours in Software Engineering
 - 💡 Constantly seeking to innovate and build quick hacks
 - 🎯 Committed to delivering high-quality software solutions
 
