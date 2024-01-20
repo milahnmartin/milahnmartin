@@ -27,6 +27,8 @@ IDEs: Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
 
 ![Milahn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milahnmartin&show_icons=true&theme=default)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milahnmartin&layout=compact)
+
 🤝 **Connect with Me**
 
 Feel free to connect with me through these platforms:
