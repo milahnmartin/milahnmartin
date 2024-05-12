@@ -1,6 +1,6 @@
 # Hi there! I'm Milahn Martin 👋
 
-I'm a dedicated 23-year-old Software Engineer based in Pretoria, South Africa, with a BSc IT (Hons) degree, majoring in Software Engineering. Passionate about creating software solutions and exploring new technologies, I'm on a journey to master Flutter and Golang.
+I'm a dedicated 23-year-old Software Engineer based in Pretoria, South Africa, with a BSc IT (Hons) degree Cum Laude, majoring in Software Engineering. Passionate about creating software solutions and exploring new technologies, I'm on a journey to master Flutter and Golang.
 
 👨🏻‍💻 **About Me**
 
@@ -9,19 +9,9 @@ I'm a dedicated 23-year-old Software Engineer based in Pretoria, South Africa, w
 - 📚 Recently graduated with Honours in Software Engineering (2023)
 - 💡 Constantly seeking to innovate and build quick hacks
 - 🎯 Committed to delivering high-quality software solutions
-- 🌐 One year of experience in the Telecoms industry
-  - Front End: Vue.js
-  - NoSQL: Firebase
-  - SQL: PostgreSQL
-  - Backend: Express.js with Node.js for scalable, reusable microservices
-  - Achieved 10,000 transactions per second with an SMS service
-
-🛠️ **Tech Stack**
-
-Languages: Python | Typescript | JavaScript | Java | C# | Go | PHP | Kotlin
-Web Technologies: Android | React.js | Flask | Express.js | Node.js | jQuery | HTML5 | CSS3 | Tailwind CSS | Next.js | Vue.js
-Databases: MySQL | SQLite3 | Oracle SQL | PostgreSQL | MongoDB | Firebase | XAMPP | GraphQL | Supabase
-IDEs: Android Studio | Jetbrains IDE | Visual Studio Code | Visual Studio | Git
+- 🌐 Achievements:
+    - Achieved 10,000 transactions per second with an SMS service.
+    - Collaborated With Yoco PTY LTD On their main website.
 
 📈 **GitHub Stats**
 
@@ -35,6 +25,7 @@ Feel free to connect with me through these platforms:
 
 - [Instagram](https://www.instagram.com/milahnmartin/)
 - [LinkedIn](https://www.linkedin.com/in/milahn-martin-376416203/)
+- [Portfolio](https://milahnmartindev.info)
 - Email: milahnmartin.develop@gmail.com
 
 📚 **Learning Journey**
